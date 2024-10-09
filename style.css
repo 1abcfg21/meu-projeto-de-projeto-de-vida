@@ -77,3 +77,8 @@ footer {
     height: 3rem;
     margin-top: 2rem;
 }
+
+.imagemedit {
+    display: flex;
+    align-items: center;
+}
